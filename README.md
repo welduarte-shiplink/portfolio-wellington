@@ -21,7 +21,7 @@ Desenvolvimento completo do sistema de gestão interna da transportadora, inclui
 - API REST para embarcadores e transportadoras
 - Integrações com:
   - B‌ling
-  - T‌iny
+  - T‌i‌ny
   - Intelipost
   - DataFrete
   - Frenet
