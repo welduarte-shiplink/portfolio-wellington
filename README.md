@@ -7,20 +7,21 @@ Atuação com foco em PHP (PDO), MySQL, JavaScript, autenticação por token, ar
 
 ## 🚚 DLog Soluções Logísticas (2015–2024)
 
-Desenvolvimento completo do sistema de gestão interna da transportadora, incluindo:
+Desenvolvimento completo do sistema de gestão da transportadora, incluindo:
 
 - Upload de XMLs de Notas Fiscais e Conhecimentos de Transporte
 - Processamento de pedidos (manual e automático com balanças cubadoras)
 - Roteirização
 - Transferências
 - Rastreamento de encomendas
+- Sistema de T‌ickets entre a DLog, embarcadores e destinatários
 - Emissão de CTEs (manual e automática)
 - Dashboards e controle de SLA
 - Faturamento com geração e integração de boletos bancários
 - API REST para embarcadores e transportadoras
 - Integrações com:
   - B‌ling
-  - ‌T‌i‌ny
+  - T‌iny
   - Intelipost
   - DataFrete
   - Frenet
