@@ -14,7 +14,7 @@ Desenvolvimento completo do sistema de gestão da transportadora, incluindo:
 - Roteirização
 - Transferências
 - Rastreamento de encomendas
-- Sistema de T‌ickets entre a DLog, embarcadores e destinatários
+- Sistema de T‌i‌c‌k‌e‌t‌s entre a DLog, embarcadores e destinatários
 - Emissão de CTEs (manual e automática)
 - Dashboards e controle de SLA
 - Faturamento com geração e integração de boletos bancários
