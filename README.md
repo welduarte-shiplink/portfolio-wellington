@@ -1,7 +1,7 @@
 # Portfólio Técnico – Wellington Duarte
 
 Desenvolvedor back-end com mais de 20 anos de experiência prática em logística, e-commerce e integração de sistemas.
-Atuação com foco em PHP (PDO), MySQL, JavaScript, autenticação por token, arquitetura SaaS e construção de soluções completas.
+Atuação com foco em PHP (PDO), MySQL, JavaScript, autenticação por token, CSS, APIRest, JSON, HTML, arquitetura SaaS e construção de soluções completas.
 
 ---
 
@@ -9,10 +9,15 @@ Atuação com foco em PHP (PDO), MySQL, JavaScript, autenticação por token, ar
 
 Desenvolvimento completo do sistema de gestão interna da transportadora, incluindo:
 
+- Upload de XMLs de Notas Fiscais e Conhecimentos de Transporte
+- Processamento de Pedidos (Manual e automático com balanças cubadoras)
+- Roteirização
+- Transferências
 - Rastreamento de encomendas
 - Emissão de CTEs (manual e automática)
 - Dashboards e controle de SLA
-- API REST para embarcadores
+- Faturamento com geração e integração de boletos bancários
+- API REST para embarcadores e transportadoras
 - Integrações com:
   - Bling
   - Tiny
@@ -33,6 +38,7 @@ Construída do zero com:
 - Controle por plano
 - Permissões granulares
 - Integração via API REST
+- 
 
 ---
 
