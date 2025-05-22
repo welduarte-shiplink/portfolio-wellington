@@ -1,3 +1,4 @@
+<!-- Google Translate: Do not translate company names below -->
 # Portfólio Técnico – Wellington Duarte
 
 Desenvolvedor back-end com mais de 20 anos de experiência prática em logística, e-commerce e integração de sistemas.
