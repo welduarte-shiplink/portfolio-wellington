@@ -56,7 +56,7 @@ Construída do zero com:
 ## 📎 Contato
 
 [LinkedIn](https://www.linkedin.com/in/wellington-duarte-dev)  
-Email: wellington@email.com  
+Email: wellington@shiplink.com.br; welduarte@icloud.com  
 Disponível para trabalho remoto, híbrido ou consultoria técnica.
 
 ---
