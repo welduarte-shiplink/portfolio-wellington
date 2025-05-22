@@ -25,7 +25,7 @@ Desenvolvimento completo do sistema de gestão interna da transportadora, inclui
   - Intelipost
   - DataFrete
   - Frenet
-  - Transportadoras como Total Express, J&T e Loggi
+  - Transportadoras como Total Express, J&T e Loggi 
 
 
 ---
