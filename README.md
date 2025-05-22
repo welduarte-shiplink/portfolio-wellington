@@ -20,8 +20,8 @@ Desenvolvimento completo do sistema de gestão interna da transportadora, inclui
 - Faturamento com geração e integração de boletos bancários
 - API REST para embarcadores e transportadoras
 - Integrações com:
-  - **Bling**
-  - **Tiny**
+  - Bling
+  - Tiny
   - Intelipost
   - DataFrete
   - Frenet
@@ -39,7 +39,7 @@ Construída do zero com:
 - Controle por plano
 - Permissões granulares
 - Integração via API REST
-- 
+
 
 ---
 
